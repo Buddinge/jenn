@@ -1,0 +1,12 @@
+F:\Demo\Demo\Test\Test.Demain\bin\Debug\net8.0\Test.Demain.deps.json
+F:\Demo\Demo\Test\Test.Demain\bin\Debug\net8.0\Test.Demain.dll
+F:\Demo\Demo\Test\Test.Demain\bin\Debug\net8.0\Test.Demain.pdb
+F:\Demo\Demo\Test\Test.Demain\obj\Debug\net8.0\Test.Demain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Demo\Demo\Test\Test.Demain\obj\Debug\net8.0\Test.Demain.AssemblyInfoInputs.cache
+F:\Demo\Demo\Test\Test.Demain\obj\Debug\net8.0\Test.Demain.AssemblyInfo.cs
+F:\Demo\Demo\Test\Test.Demain\obj\Debug\net8.0\Test.Demain.csproj.CoreCompileInputs.cache
+F:\Demo\Demo\Test\Test.Demain\obj\Debug\net8.0\Test.Demain.dll
+F:\Demo\Demo\Test\Test.Demain\obj\Debug\net8.0\refint\Test.Demain.dll
+F:\Demo\Demo\Test\Test.Demain\obj\Debug\net8.0\Test.Demain.pdb
+F:\Demo\Demo\Test\Test.Demain\obj\Debug\net8.0\ref\Test.Demain.dll
+F:\Demo\Demo\Test\Test.Demain\obj\Debug\net8.0\Test.Demain.csproj.AssemblyReference.cache
